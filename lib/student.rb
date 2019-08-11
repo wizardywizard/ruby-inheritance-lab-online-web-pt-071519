@@ -7,7 +7,7 @@ def initialize
 end
 
 def learn 
-  
+  @knowledge << "hello"
 end
 
 end
